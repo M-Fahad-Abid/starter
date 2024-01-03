@@ -2,4 +2,4 @@ this is a demo file.
 
 As you know finding a suitable job is not an easy task.
 
-So we are going to make a platform for users to find suitable jobs. 
+ 
